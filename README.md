@@ -1,5 +1,4 @@
 # Medusa
 Drone Racing
 
-jjijjij
-zevel
+I deleted
